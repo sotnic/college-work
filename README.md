@@ -1,4 +1,4 @@
-# college-work
+# college-work-C#
 C#-based assignments
 
 Assignment #1: simple calculator application using Windows Forms
