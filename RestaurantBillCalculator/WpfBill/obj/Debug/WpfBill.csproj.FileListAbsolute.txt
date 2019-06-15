@@ -1,0 +1,15 @@
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\bin\Debug\WpfBill.exe.config
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\bin\Debug\WpfBill.exe
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\bin\Debug\WpfBill.pdb
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.csprojAssemblyReference.cache
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\MainWindow.g.cs
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\App.g.cs
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill_MarkupCompile.cache
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill_MarkupCompile.lref
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\MainWindow.baml
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.g.resources
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.Properties.Resources.resources
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.csproj.GenerateResource.cache
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.csproj.CoreCompileInputs.cache
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.exe
+C:\Users\sotnic\source\repos\RestaurantBillCalculator\WpfBill\obj\Debug\WpfBill.pdb
